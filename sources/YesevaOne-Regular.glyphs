@@ -18267,6 +18267,28 @@ width = 412;
 unicode = 2074;
 },
 {
+glyphname = fraction;
+lastChange = "2016-09-23 19:06:12 +0000";
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"5 0 LINE",
+"520 700 LINE",
+"465 700 LINE",
+"-50 0 LINE"
+);
+}
+);
+width = 470;
+}
+);
+unicode = 2044;
+},
+{
 glyphname = onehalf;
 lastChange = "2016-09-23 18:44:33 +0000";
 layers = (
@@ -20999,6 +21021,21 @@ width = 665;
 }
 );
 unicode = 00A5;
+},
+{
+glyphname = divisionslash;
+layers = (
+{
+components = (
+{
+name = slash;
+}
+);
+layerId = UUID0;
+width = 350;
+}
+);
+unicode = 2215;
 },
 {
 glyphname = plus;
