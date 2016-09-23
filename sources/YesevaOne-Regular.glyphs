@@ -86,6 +86,40 @@ alignmentZones = (
 );
 ascender = 915;
 capHeight = 700;
+customParameters = (
+{
+name = winAscent;
+value = 1025;
+},
+{
+name = typoAscender;
+value = 1025;
+},
+{
+name = hheaAscender;
+value = 1025;
+},
+{
+name = typoDescender;
+value = -310;
+},
+{
+name = hheaDescender;
+value = -310;
+},
+{
+name = winDescent;
+value = 200;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+}
+);
 descender = -240;
 horizontalStems = (
 160

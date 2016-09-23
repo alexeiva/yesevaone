@@ -109,7 +109,7 @@ value = -310;
 },
 {
 name = winDescent;
-value = 200;
+value = 310;
 },
 {
 name = hheaLineGap;
