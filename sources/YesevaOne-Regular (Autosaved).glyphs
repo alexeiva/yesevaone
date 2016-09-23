@@ -20,6 +20,14 @@ value = "Yeseva One is a trademark of Jovanny Lemonad.";
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = 0;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-09-19 21:59:01 +0000";
@@ -23747,10 +23755,30 @@ nodes = (
 width = 1305;
 }
 );
+},
+{
+glyphname = NULL;
+lastChange = "2016-09-23 18:48:52 +0000";
+layers = (
+{
+layerId = UUID0;
+width = 0;
+}
+);
 }
 );
 instances = (
 {
+customParameters = (
+{
+name = postscriptFullName;
+value = "Yeseva One Regular";
+},
+{
+name = compatibleFullName;
+value = "Yeseva One Regular";
+}
+);
 instanceInterpolations = {
 UUID0 = 1;
 };
