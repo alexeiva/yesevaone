@@ -101,15 +101,15 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1025;
+value = 950;
 },
 {
 name = typoAscender;
-value = 1025;
+value = 950;
 },
 {
 name = hheaAscender;
-value = 1025;
+value = 950;
 },
 {
 name = typoDescender;
