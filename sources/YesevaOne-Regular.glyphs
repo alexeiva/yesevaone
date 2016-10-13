@@ -1,5 +1,5 @@
 {
-.appVersion = "923";
+.appVersion = "926";
 classes = (
 {
 automatic = 1;
@@ -16,14 +16,6 @@ value = "http://scripts.sil.org/OFL";
 {
 name = trademark;
 value = "Yeseva One is a trademark of Jovanny Lemonad.";
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = fsType;
-value = 0;
 },
 {
 name = "Use Typo Metrics";
