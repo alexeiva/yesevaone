@@ -176,19 +176,19 @@ value = 1079;
 },
 {
 name = typoAscender;
-value = 950;
+value = 915;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 915;
 },
 {
 name = typoDescender;
-value = -310;
+value = -240;
 },
 {
 name = hheaDescender;
-value = -310;
+value = -240;
 },
 {
 name = winDescent;
