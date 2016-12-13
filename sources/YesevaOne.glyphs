@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "948";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2011-2012, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Yeseva'";
+copyright = "Copyright 2012 The Yeseva One Project Authors (lemonad@jovanny.ru), with Reserved Font Name \"Yeseva\".";
 customParameters = (
 {
 name = licenseURL;
